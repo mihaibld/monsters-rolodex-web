@@ -54,4 +54,3 @@ class App extends Component {
 }
 
 export default App;
-/*next 54 to view*/
